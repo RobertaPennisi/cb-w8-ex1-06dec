@@ -1,0 +1,23 @@
+{
+  "name": "exercise-06-dec",
+  "version": "1.0.0",
+  "description": "Esercitazioni Week 8 - Coding Bootcamp - 06 Dicembre",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertaPennisi/cb-w8-ex1-06dec.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertaPennisi/cb-w8-ex1-06dec/issues"
+  },
+  "homepage": "https://github.com/RobertaPennisi/cb-w8-ex1-06dec#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
